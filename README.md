@@ -30,7 +30,7 @@ Our model successfully identified distinct professional clusters. For instance, 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open `wds_proj.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `Job Market Analysis & Career Recommendation System.ipynb` in Jupyter Notebook or Google Colab.
 
 ---
-Developed with 💡 by [Your Name] & [Your Partner's Name]
+Developed with 💡 by Bouachra Salma & Bel mahjoube Nadia
